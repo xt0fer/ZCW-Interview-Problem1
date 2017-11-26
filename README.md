@@ -1,7 +1,11 @@
 <h1>Problem 1</h1>
 Write a java program to replace certain characters from a string:
-Create one method that completes the task using iteration.
-Create one method that completes the task using recursion.
+    
+    * Create one method that completes the task using iteration.
+    * Create one method that completes the task using recursion.
+
+
+UNIT TESTING IS MANDATORY !!!
 
 <b>Example:</b>
 
