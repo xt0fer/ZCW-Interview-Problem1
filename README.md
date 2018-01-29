@@ -12,5 +12,5 @@ UNIT TESTING IS MANDATORY !!!
 Given the following map { ‘f’ : ‘7’, ‘s’:’$’, ‘1’:’!’, ‘a’.:’@’}, your method should replace any character represented by a key in the map, with its corresponding value.
 
 Input = “The Farmer went to the store to get 1 dollar’s worth of fertilizer”
-Output = “The 7@rmer went to the $tore to get ! doll@r’$ worth of 7ertilizer”
+Output = “The 7@rmer went to the $tore to get ! doll@r’$ worth o7 7ertilizer”
 
